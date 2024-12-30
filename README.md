@@ -6,7 +6,7 @@
 - 🌱 I am always keen on exploring new facets of **data analytics**, **data engineering**, and **machine learning**, including **Transformers**, **Large Language Models (LLMs)**, and **Azure**.
 - 👯 You can enjoy the codebases from **data science**, **data engineering**, and **natural language processing (NLP)** in this repository.
 - 🤔 I’m actively looking for an opportunity in the **data engineering**, **machine learning** and **analytical** sector.
-- 🤝 How to connect with me: [prateekl@buffalo.edu](mailto:prateekl@buffalo.edu) 
+- 🤝 How to connect with me: [wprateeklk@gmail.om](mailto:wprateeklk@gmail.com) 
 
 
 
